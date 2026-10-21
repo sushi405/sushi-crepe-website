@@ -112,6 +112,7 @@ function updateLanguageButtons() {
 // Translations object
 const translations = {
     en: {
+        contactDirect: "Questions? Call us directly.",
         // Navigation
         brandName: "Sushi Crêpe & Coffee shop",
         home: "Home",
@@ -127,9 +128,9 @@ const translations = {
         description: "Experience a unique fusion of flavors! From irresistible crepes to gourmet coffee, embark on a culinary journey that will awaken your senses.",
 
         // About Section
-        aboutTitle: "Our Story",
-        aboutDescription: "At Sushi Crêpe & Coffee Shop, every bite tells a story. We offer a unique variety of sweet and savory crepes, all prepared to order with fresh ingredients and a touch of creativity.",
-        aboutText: "We are a family-owned crêperie located in the heart of Lennoxville, Sherbrooke, with a story as unique as our menu. It all started when my wife, a big sushi lover, asked me to buy some and bring them home. I decided to play a little joke on her by preparing a sweet crêpe inspired by sushi. To her surprise, she loved it! Her enthusiasm inspired us to incorporate this playful creation into our crêperie. Today, Sushi Crêpe & Coffee Shop stands out by blending creativity and tradition, offering both sweet and savory crepes made with the freshest ingredients. Our goal is to surprise and delight our customers with flavors that tell our story and bring a smile to their faces.",
+        aboutTitle: "Our passion, your pleasure",
+        aboutDescription: "Located in the heart of Lennoxville, Sherbrooke, Sushi Crêpe & Coffee Shop offers a unique gourmet experience combining creativity, quality, and irresistible flavors.",
+        aboutText: "Discover our specialties: sweet and savory crêpes, our signature sushi crêpes, and a selection of delicious drinks, all carefully prepared for your enjoyment. And there is more to come! New sweet creations, a variety of desserts, and delicious ice cream will soon join our menu. At Sushi Crêpe, there is always something delicious to enjoy!",
 
         // Delivery Section
         delivery: "Order for Delivery",
@@ -205,6 +206,7 @@ const translations = {
         socialMedia: "Follow us on social media",
     },
     fr: {
+        contactDirect: "Une question ? Appelez-nous directement.",
         // Navigation
         brandName: "Sushi Crêpe & Coffee shop",
         home: "Accueil",
@@ -220,9 +222,9 @@ const translations = {
         description: "Découvrez une fusion unique de saveurs ! Des crêpes irrésistibles au café gourmet, embarquez dans un voyage culinaire qui éveillera vos sens.",
 
         // About Section
-        aboutTitle: "Notre Histoire",
-        aboutDescription: "Chez Sushi Crêpe & Coffee Shop, chaque bouchée raconte une histoire. Nous proposons une variété unique de crêpes sucrées et salées, toutes préparées sur commande avec des ingrédients frais et une touche de créativité.",
-        aboutText: "Nous sommes une crêperie familiale située au cœur de Lennoxville, Sherbrooke, avec une histoire aussi unique que notre menu. Tout a commencé lorsque ma femme, une grande amatrice de sushi, m'a demandé d'en acheter et de les rapporter à la maison. J'ai décidé de lui faire une petite blague en préparant une crêpe sucrée inspirée des sushi. À sa surprise, elle a adoré ! Son enthousiasme nous a inspiré à intégrer cette création ludique dans notre crêperie. Aujourd'hui, Sushi Crêpe & Coffee Shop se distingue en mélangeant créativité et tradition, offrant des crêpes sucrées et salées préparées avec les ingrédients les plus frais. Notre objectif est de surprendre et de ravir nos clients avec des saveurs qui racontent notre histoire et apportent un sourire à leur visage.",
+        aboutTitle: "Notre passion, votre plaisir",
+        aboutDescription: "Situé au cœur de Lennoxville, à Sherbrooke, Sushi Crêpe & Coffee Shop vous propose une expérience gourmande unique, alliant créativité, qualité et saveurs irrésistibles.",
+        aboutText: "Découvrez nos spécialités : crêpes sucrées et salées, nos fameux sushi crêpes et une sélection de boissons gourmandes, préparés avec soin pour votre plaisir. Et ce n’est pas tout ! De nouvelles créations sucrées, une variété de desserts et de délicieuses glaces viendront bientôt enrichir notre menu. Chez Sushi Crêpe, le plaisir gourmand est toujours au rendez-vous !",
 
         // Delivery Section
         delivery: "Commander en livraison",
